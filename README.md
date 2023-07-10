@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nahuel Lautaro Torres</h1>
 <h3 align="center">Developer Full-Stack Web</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lautaro261" alt="lautaro261" /></a> </p>
 
 - 📫 How to reach me **nahueltorrestec@gmail.com**
 

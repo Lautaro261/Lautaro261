@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nahuel Lautaro Torres</h1>
 <h3 align="center">Developer Full-Stack Web</h3>
 
+👨‍💻 Full Stack Developer with a background in financial analysis and physics studies, blending scientific methodology, data analysis, and logical problem-solving skills in my journey as a developer. Specializing in both Front-end and Back-end development, I have experience with agile methodologies, GIT, data structures, algorithms, and CSS frameworks. Proficient in technologies such as Node.js, React, PostgreSQL, and C#. My soft skills include leadership, analytical thinking, problem-solving abilities, and a strong team-oriented mindset. 🚀
 
 - 📫 How to reach me **nahueltorrestec@gmail.com**
 

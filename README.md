@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nahuel-lautaro-torres-loretto-511085235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahuel-lautaro-torres-loretto-511085235" height="30" width="40" /></a> <a href="mailto:nahueltorrestec@gmail.com" target="blank"><img align="center" src="https://res.cloudinary.com/dmusnfifn/image/upload/v1697686961/portafolio/logos/n0vkbugl5nsdal01uh78.png" alt="nahuel-lautaro-torres-loretto-511085235" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nahuel-lautaro-torres-loretto-511085235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahuel-lautaro-torres-loretto-511085235" height="30" width="40" /></a> <a href="mailto:nahueltorrestec@gmail.com" target="blank"><img align="center" src="https://res.cloudinary.com/dmusnfifn/image/upload/v1697686961/portafolio/logos/n0vkbugl5nsdal01uh78.png" alt="nahuel-lautaro-torres-loretto-511085235" height="25" width="30" /></a>
 </p>
 
 

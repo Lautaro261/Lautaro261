@@ -15,4 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lautaro261&show_icons=true&locale=en&theme=dark" alt="lautaro261" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lautaro261&theme=dark" alt="lautaro261" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lautaro261&theme=radical" alt="lautaro261" /></p>

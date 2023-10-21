@@ -4,24 +4,9 @@
 👨‍💻 Full Stack Developer with a background in financial analysis and physics studies, blending scientific methodology, data analysis, and logical problem-solving skills in my journey as a developer. Specializing in both Front-end and Back-end development, I have experience with agile methodologies, GIT, data structures, algorithms, and CSS frameworks. Proficient in technologies such as Node.js, React, PostgreSQL, and C#. My soft skills include leadership, analytical thinking, problem-solving abilities, and a strong team-oriented mindset. 🚀
 
 <h3 align="left">Connect with me</h3>
-<svg width="0" height="0">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .linkedin {
-          margin-right: 40px;
-        }
-      </style>
-      <a href="https://linkedin.com/in/nahuel-lautaro-torres-loretto-511085235" target="blank" class="linkedin">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahuel-lautaro-torres-loretto-511085235" height="30" width="40" />
-      </a>
-      <a href="mailto:nahueltorrestec@gmail.com" target="blank">
-        <img align="center" src="https://res.cloudinary.com/dmusnfifn/image/upload/v1697686961/portafolio/logos/n0vkbugl5nsdal01uh78.png" alt="nahuel-lautaro-torres-loretto-511085235" height="25" width="30" />
-      </a>
-    </div>
-  </foreignObject>
-</svg>
-
+<p align="left">
+<a href="https://linkedin.com/in/nahuel-lautaro-torres-loretto-511085235" target="blank" style="margin-right: 40px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahuel-lautaro-torres-loretto-511085235" height="30" width="40" /></a> <a href="mailto:nahueltorrestec@gmail.com" target="blank"><img align="center" src="https://res.cloudinary.com/dmusnfifn/image/upload/v1697686961/portafolio/logos/n0vkbugl5nsdal01uh78.png" alt="nahuel-lautaro-torres-loretto-511085235" height="25" width="30"  /></a>
+</p>
 
 
 

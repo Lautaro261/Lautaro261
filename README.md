@@ -4,7 +4,7 @@
 👨‍💻 Full Stack Developer with a background in financial analysis and physics studies, blending scientific methodology, data analysis, and logical problem-solving skills in my journey as a developer. Specializing in both Front-end and Back-end development, I have experience with agile methodologies, GIT, data structures, algorithms, and CSS frameworks. Proficient in technologies such as Node.js, React, PostgreSQL, and C#. My soft skills include leadership, analytical thinking, problem-solving abilities, and a strong team-oriented mindset. 🚀
 
 <h3 align="left">Connect with me</h3>
-<p align="center">
+<p align="center" style="display: flex; justify-content: space-between;">
 <a href="https://linkedin.com/in/nahuel-lautaro-torres-loretto-511085235" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahuel-lautaro-torres-loretto-511085235" height="30" width="40" /></a> <a href="mailto:nahueltorrestec@gmail.com" target="blank"><img align="center" src="https://res.cloudinary.com/dmusnfifn/image/upload/v1697686961/portafolio/logos/n0vkbugl5nsdal01uh78.png" alt="nahuel-lautaro-torres-loretto-511085235" height="25" width="30"  /></a>
 </p>
 
